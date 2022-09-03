@@ -1,0 +1,8 @@
+[input]
+base_directory = "output"
+html_selector = "article"
+
+[[input.files]]
+path = "ein-blog-mit-pelikan.html"
+url = "/ein-blog-mit-pelikan.html"
+title = "Ein Blog mit Pelikan"
