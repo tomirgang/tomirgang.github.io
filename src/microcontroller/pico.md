@@ -38,7 +38,9 @@ Punkt. Der Ball liegt beim "roten" Spieler:
 
 ## Bauteile
 
-- [WS2812B LED Strip](https://www.amazon.de/-/en/gp/product/B088BB8WTZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+![LEDs](1d_pong/Leds.jpg)
+
+[WS2812B LED Strip](https://www.amazon.de/-/en/gp/product/B088BB8WTZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
 Die Dichte der LEDs und die gewünschte Anzahl and Spielfeldern bestimmt
 die Größe der fertigen LED Leiste.
@@ -53,9 +55,19 @@ Für einen einfacheren Aufbau habe ich die Kabel für den einen Buzzer auch mit
 durch das Profil geführt. Die Masse kann man dabei von den LEDs bekommen, und
 sich damit ein Kabel sparen.
 
-- Buzzer aus [Arcade-Tastern](https://www.amazon.de/-/en/dp/B01MSNXLN0?psc=1&ref=ppx_yo2ov_dt_b_product_details) und [Abzweigdosen](https://www.amazon.de/-/en/dp/B09TXN1XGB?psc=1&ref=ppx_yo2ov_dt_b_product_details).
+![Buzzer1](1d_pong/Buzzer1.jpg)
 
-- [Raspberry Pi Pico](https://www.berrybase.de/raspberry-pi-pico-rp2040-mikrocontroller-board)
+![Buzzer2](1d_pong/Buzzer2.jpg)
+
+Buzzer aus [Arcade-Tastern](https://www.amazon.de/-/en/dp/B01MSNXLN0?psc=1&ref=ppx_yo2ov_dt_b_product_details) und [Abzweigdosen](https://www.amazon.de/-/en/dp/B09TXN1XGB?psc=1&ref=ppx_yo2ov_dt_b_product_details).
+
+![Pico](1d_pong/Pico.jpg)
+
+[Raspberry Pi Pico](https://www.berrybase.de/raspberry-pi-pico-rp2040-mikrocontroller-board)
+
+Der Raspberry Pi Pico und der LED Strip können mit dem selben
+[5V Netzteil](https://www.amazon.de/dp/B07P8HKFLL?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+versorgt werden.
 
 ## Schaltplan
 
