@@ -45,7 +45,7 @@ Punkt. Der Ball liegt beim "roten" Spieler:
 Die Dichte der LEDs und die gewünschte Anzahl and Spielfeldern bestimmt
 die Größe der fertigen LED Leiste.
 
-Ich habe noch einen [Alu-Profil mit Streuscheibe] verwendet. Das ist nicht
+Ich habe noch einen [Alu-Profil mit Streuscheibe](https://www.amazon.de/dp/B06XFT5X4T?psc=1&ref=ppx_yo2ov_dt_b_product_details) verwendet. Das ist nicht
 zwingend notwendig, kühlt aber die LEDs und macht die Optik schöner.
 
 Um eine klare Trennung der "Pixel" zu bekommen habe ich zwischen die LEDs
