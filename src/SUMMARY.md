@@ -8,3 +8,5 @@
     - [ESP32](microcontroller/esp32.md)
     - [Raspberry Pi Pico](microcontroller/pico.md)
 - [Python](python.md)
+- [Gnomw](gnome.md)
+
