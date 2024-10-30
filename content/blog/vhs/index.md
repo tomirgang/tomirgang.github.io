@@ -1,6 +1,16 @@
-# VHS Kurse
++++
+title = "VHS Kurse"
+date = 2023-03-04
+description = "Mein Beitrag zur Erwachsenenbildung ..."
+[taxonomies]
+tags = ["VHS", "Kurs", "Python", "Basics", "Informatik", "Lehren"]
 
-Vor einer Weile hatte ich die Idee der Welt mehr Informatik Basis-Wissen beizubringen, und habe dazu zwei Python Kurse vorbereitet. Die Kurse habe ich einmal angeboten, da sie aber mangels Nachfrage nicht stattfanden habe ich sie auch nicht mehr angeboten.
+[extra]
+quick_navigation_buttons = true
++++
+
+Vor einer Weile hatte ich die Idee der Welt mehr Informatik Basis-Wissen beizubringen, und habe dazu zwei Python Kurse vorbereitet. 
+Die Kurse habe ich einmal angeboten, da sie aber mangels Nachfrage nicht stattfanden habe ich sie auch nicht mehr angeboten.
 
 ## Erste Schritte mit Python
 

@@ -1,6 +1,15 @@
-# Raspberry Pi Pico Projekte
++++
+title = "1D Pong"
+date = 2024-05-09
+description = "1D Pong mit Raspberry Pi Pico und WS2812B ..."
+weight = 10
 
-## 1D Pong
+[extra]
+local_image = "/projects/1d-pong/1d_pong/Game1.jpg"
+
+[taxonomies]
+tags = ["RaspberryPi", "Pico", "Pong", "C", "Microcontroller"]
++++
 
 Das 1D Pong ist eine Hardware-Implementierung von Pong in 1D.
 
