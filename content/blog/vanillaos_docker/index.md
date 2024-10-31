@@ -1,7 +1,8 @@
 +++
 title = "Docker on Vanilla OS"
 date = 2024-10-30
-description = "How to add docker.io to Vanilla OS ..."
+updated = 2024-10-31
+description = "Docker auf Vanilla OS installieren ..."
 [taxonomies]
 tags = ["Linux", "Docker", "VanillaOS"]
 
