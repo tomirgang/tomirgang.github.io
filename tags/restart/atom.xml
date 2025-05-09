@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://tomirgang.de/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It&#x27;s free.</tabi:about_feeds>
+        <tabi:visit_the_site>Visit website</tabi:visit_the_site>
+        <tabi:recent_posts>Recent posts</tabi:recent_posts>
+        <tabi:last_updated_on>Updated on $DATE</tabi:last_updated_on>
+        <tabi:default_theme>dark</tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>restart</tabi:current_section>
+    </tabi:metadata><title>Tom Irgang - restart</title>
+        <subtitle>tabi is a fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score.</subtitle>
+    <link href="https://tomirgang.de/tags/restart/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://tomirgang.de/tags/restart/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-10-30T00:00:00+00:00</updated>
+    <id>https://tomirgang.de/tags/restart/atom.xml</id><entry xml:lang="en">
+        <title>Neustart...</title>
+        <published>2024-10-30T00:00:00+00:00</published>
+        <updated>2024-10-30T00:00:00+00:00</updated>
+        <author>
+            <name>Tom Irgang</name>
+        </author>
+        <link rel="alternate" href="https://tomirgang.de/blog/restart/" type="text/html"/>
+        <id>https://tomirgang.de/blog/restart/</id>
+        
+            <content type="html">&lt;p&gt;Hi,&lt;&#x2F;p&gt;
+&lt;p&gt;ich versuche mich mal wieder am Blog schreiben, diesmal mit &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt; als Static-Site-Generator.&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Ich versuche mich mal wieder am Blog schreiben...</summary>
+        </entry>
+</feed>

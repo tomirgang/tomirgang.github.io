@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://tomirgang.de/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It&#x27;s free.</tabi:about_feeds>
+        <tabi:visit_the_site>Visit website</tabi:visit_the_site>
+        <tabi:recent_posts>Recent posts</tabi:recent_posts>
+        <tabi:last_updated_on>Updated on $DATE</tabi:last_updated_on>
+        <tabi:default_theme>dark</tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>ESP32</tabi:current_section>
+    </tabi:metadata><title>Tom Irgang - ESP32</title>
+        <subtitle>tabi is a fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score.</subtitle>
+    <link href="https://tomirgang.de/tags/esp32/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://tomirgang.de/tags/esp32/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-05-09T00:00:00+00:00</updated>
+    <id>https://tomirgang.de/tags/esp32/atom.xml</id><entry xml:lang="en">
+        <title>BoardLight</title>
+        <published>2024-05-09T00:00:00+00:00</published>
+        <updated>2024-05-09T00:00:00+00:00</updated>
+        <author>
+            <name>Tom Irgang</name>
+        </author>
+        <link rel="alternate" href="https://tomirgang.de/projects/boardlight/" type="text/html"/>
+        <id>https://tomirgang.de/projects/boardlight/</id>
+        
+            <content type="html">&lt;p&gt;Das BoardLight ist ein WS2811 LED Strip der über einen ESP32 Controller angesteuert wird und mein Whiteboard beleuchtet.&lt;&#x2F;p&gt;
+&lt;p&gt;Git Repository: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tomirgang&#x2F;boardlight&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;tomirgang&#x2F;boardlight&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">ESP32 und WS2811B Led Strips ...</summary>
+        </entry><entry xml:lang="en">
+        <title>Luftfeuchte Sensor</title>
+        <published>2024-05-09T00:00:00+00:00</published>
+        <updated>2024-05-09T00:00:00+00:00</updated>
+        <author>
+            <name>Tom Irgang</name>
+        </author>
+        <link rel="alternate" href="https://tomirgang.de/projects/humidity-sensor/" type="text/html"/>
+        <id>https://tomirgang.de/projects/humidity-sensor/</id>
+        
+            <content type="html">&lt;p&gt;Der Luftfeuchte Sensor ist ein kleiner Selbstbau IoT Luftfeuchte und Temperatur Sensor, auf Basis eines ESP32, der die Daten für die letzten Tage vorhält, auf ein kleines LCD Display rendert, über HTTP zur Verfügung stellt, und den aktuellen Wert über UDP broadcastet.&lt;&#x2F;p&gt;
+&lt;p&gt;Git Repository: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tomirgang&#x2F;WifiTemperatuerHumidiySensor&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;tomirgang&#x2F;WifiTemperatuerHumidiySensor&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">ESP32 und CREE High Power Leds ...</summary>
+        </entry><entry xml:lang="en">
+        <title>Licht</title>
+        <published>2024-05-09T00:00:00+00:00</published>
+        <updated>2024-05-09T00:00:00+00:00</updated>
+        <author>
+            <name>Tom Irgang</name>
+        </author>
+        <link rel="alternate" href="https://tomirgang.de/projects/licht/" type="text/html"/>
+        <id>https://tomirgang.de/projects/licht/</id>
+        
+            <content type="html">&lt;p&gt;Das Licht ist eine Selbstbau-Lampe aus CREE High Power Star Leds, die über einen ESP32 Controller angesteuert werden.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tomirgang.de&#x2F;projects&#x2F;licht&#x2F;Licht.jpeg&quot; alt=&quot;Licht&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">ESP32 und CREE High Power Leds ...</summary>
+        </entry><entry xml:lang="en">
+        <title>Pixelwall</title>
+        <published>2024-05-09T00:00:00+00:00</published>
+        <updated>2024-05-09T00:00:00+00:00</updated>
+        <author>
+            <name>Tom Irgang</name>
+        </author>
+        <link rel="alternate" href="https://tomirgang.de/projects/pixelwall/" type="text/html"/>
+        <id>https://tomirgang.de/projects/pixelwall/</id>
+        
+            <content type="html">&lt;p&gt;Die Pixelwall ist eine RGB LED Matrix, bebaut aus einem WS2812 LED Strip, die über einen ESP32 Controller angesteuert wird.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;assets.chaos.social&#x2F;media_attachments&#x2F;files&#x2F;109&#x2F;885&#x2F;395&#x2F;868&#x2F;702&#x2F;050&#x2F;original&#x2F;04bb326e899ab23a.jpeg&quot; alt=&quot;Pixelwall&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Git Repository: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tomirgang&#x2F;pixelwall&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;tomirgang&#x2F;pixelwall&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">ESP32 LED Matrix ...</summary>
+        </entry>
+</feed>
